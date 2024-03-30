@@ -907,6 +907,13 @@ a{
     background-color:#FA8305;
     left: 110px;
 }
+
+#GD4 a{
+    width: 0px;
+    height: 0px;
+    padding: 0px;
+    margin: 0px;
+}
 #GD4 .pre1{
     color: #FFFFFF;
     width: 130px;
